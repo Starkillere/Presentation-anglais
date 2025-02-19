@@ -25,35 +25,51 @@
 
 ---
 
+### **Journalist 2 (Oriol)**:  
+**Question to Anrezki (Robotics and AI Expert)**  
+- "Now, let’s start with robotics. Anrezki, in *WALL-E*, we see robots like WALL-E and EVE, who are capable of performing complex tasks and even expressing emotions. How realistic are these robots compared to the current advancements in robotics and AI? Can we expect robots like WALL-E in the near future?"
+
+---
+
 ### **Specialist 1 (Anrezki, Robotics and AI Expert)**:  
 **Robotics and AI**  
 - *[Slide 3: Robots in *WALL-E* - WALL-E and EVE]*  
-- "Let’s start with robotics. *WALL-E* and EVE represent highly advanced forms of artificial intelligence. In the movie, they display emotions, make independent decisions, and interact with humans in a way that feels almost real. But how realistic is this?  
-- *WALL-E*’s ability to navigate the Earth and carry out complex tasks, like sorting waste and interacting with EVE, is something we can only dream of today. While we have autonomous robots like vacuum cleaners, we’re far from achieving robots with the emotional intelligence shown in *WALL-E*."  
-- *[Slide 4: Real-Life Robotics Advances]*  
-- "Currently, AI in robotics is progressing, but it’s still limited to very specific tasks. For example, Boston Dynamics creates robots like Spot, who can walk and carry out basic tasks, but they don’t have the capability to understand and respond emotionally like WALL-E. So, while *WALL-E*'s technology is fictional, it raises interesting possibilities about the future of AI."
+- "That’s a great question, Oriol. The robots in *WALL-E* are depicted with advanced artificial intelligence and emotional capabilities. While we do have robots like vacuum cleaners and factory automation robots today, none of them have the sophisticated emotional intelligence that WALL-E or EVE display.  
+- In reality, AI and robotics are making progress, but emotional AI, where robots can form relationships and show empathy, is still far from being fully realized. We’re closer to having robots that can perform tasks, like Boston Dynamics’ robots, but emotional responses? That’s still science fiction."
+
+---
+
+### **Journalist 1 (Mathilde)**:  
+**Question to Kiara (Environmental Science Expert)**  
+- "Now, let’s move to the environment. Kiara, in *WALL-E*, Earth has been abandoned because it’s covered in pollution and waste. While the film takes this idea to an extreme, do you think our planet could actually reach a point where we can no longer live here due to environmental damage? What’s the current state of the Earth in terms of pollution?"
 
 ---
 
 ### **Specialist 2 (Kiara, Environmental Science Expert)**:  
 **Ecology and Environmental Impact**  
 - *[Slide 5: Earth in *WALL-E* - A Polluted Wasteland]*  
-- "Now, let’s talk about the Earth in *WALL-E*. The movie depicts a planet overwhelmed by pollution and waste, leading to humanity abandoning it. This is a highly exaggerated scenario, but the movie addresses real-world issues. We’re already seeing the effects of pollution, deforestation, and waste accumulation today.  
+- "That’s an important question, Mathilde. While *WALL-E* presents an exaggerated future where Earth is completely abandoned, it does bring up some real concerns about pollution and waste. Right now, we’re dealing with serious environmental issues, like plastic pollution, climate change, and deforestation. However, we’re not yet at the point of total abandonment.  
 - *[Slide 6: Real-World Environmental Problems]*  
-- "In reality, while we aren’t at the level shown in the film, pollution and waste management are critical global issues. If we continue at our current pace, Earth could face severe environmental consequences. However, it’s important to note that humanity hasn’t completely given up on the planet. Efforts in sustainability and recycling, such as zero-waste initiatives and environmental policies, are pushing for change."
+- There’s still hope for the planet. Governments, scientists, and organizations are working on solutions like renewable energy, reducing carbon emissions, and cleaning up oceans. If we act fast, we can still make significant changes to ensure Earth remains habitable."
+
+---
+
+### **Journalist 2 (Oriol)**:  
+**Question to Yacine (Space Exploration Expert)**  
+- "Great insights, Kiara! Now, moving on to space exploration. Yacine, in *WALL-E*, humanity leaves Earth to live aboard a spaceship called the Axiom. While this seems very futuristic, do you think humans could actually live in space long-term? What are the current challenges we face in terms of space travel and colonization?"
 
 ---
 
 ### **Specialist 3 (Yacine, Space Exploration Expert)**:  
 **Space Exploration and Human Survival**  
 - *[Slide 7: The Axiom Ship and Human Survival]*  
-- "In the film, humanity abandons Earth and survives aboard the Axiom, a massive spaceship. While this seems far-fetched, space exploration is an ongoing scientific endeavor. But could we really live in space for centuries?  
+- "Thanks for the question, Oriol. The idea of living in space for an extended period is certainly fascinating, but it’s far from being a reality today. Space agencies like NASA are working on missions to send humans to Mars, but creating a sustainable life-support system for long-term space habitation is a huge challenge.  
 - *[Slide 8: Current Space Exploration Efforts]*  
-- "NASA and private companies like SpaceX are working on technology for long-term space travel. However, living in space permanently poses significant challenges, such as the effects of zero gravity, radiation exposure, and how to provide sustainable resources like food and water. While *WALL-E*’s vision is fictional, space travel is something humanity is seriously considering for the future."
+- Issues like zero gravity, radiation exposure, and food production are just a few of the many hurdles we would need to overcome. The technology is advancing, but living permanently in space as depicted in *WALL-E* is still science fiction for now."
 
 ---
 
-### **Journalist 2 (Oriol)**:  
+### **Journalist 1 (Mathilde)**:  
 **Public Interaction - Question Time**  
 - "Now, let’s pause and ask you again—do you think it’s possible for humanity to completely abandon Earth and live in space? What are your thoughts on this? *[Pause for audience answers]*  
 - "Interesting points! It seems like there’s a mix of optimism and skepticism. Now, we’ll turn to our experts for further insights."
