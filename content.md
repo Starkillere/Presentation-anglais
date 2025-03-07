@@ -1,116 +1,122 @@
-## Script for *WALL-E* Presentation (Revised)
+## Script for *Don't Look Up* Presentation
 
 ---
 
-### **Journalist 1 (Mathilde)**:  
+### **Journalist 1 (Mathilde)**  
 **Introduction**  
 - *[Smile, facing the audience]*  
-- "Good morning everyone! Today, we’re going to explore the fascinating world of *WALL-E*, a movie that delves into the future of Earth, humanity, and technology. We’ll take a closer look at how this animated movie blends science and fiction. But first, let’s start with a quick summary of the film."
+- "Good morning everyone! Today, we’re going to discuss *Don't Look Up*, a satirical film that critiques how society and the media respond to global crises, particularly climate change. Before diving in, let’s start with a brief summary of the movie."
 
 ---
 
-### **Journalist 2 (Oriol)**:  
+### **Journalist 2 (Oriol)**  
 **Film Summary**  
 - *[Slide 1: Movie Title, Release Date, Director]*  
-- "Released in 2008, *WALL-E* is an animated science fiction film directed by Andrew Stanton. The story takes place in a distant future where Earth has been abandoned by humanity due to pollution and overconsumption. WALL-E, a small waste-collecting robot, is left behind to clean up the mess. He spends his days collecting trash and living alone, until one day, he discovers EVE, a robot sent to Earth to find signs of life. Together, they embark on a journey that could save the planet and the future of humanity."
+- "Released in 2021 and directed by Adam McKay, *Don't Look Up* follows two astronomers who discover a comet headed toward Earth. As they try to warn the world, they face political indifference, media sensationalism, and corporate greed. The film is a metaphor for the climate crisis and how governments and institutions often fail to act in time."
 
 - *[Slide 2: Main Characters and Key Roles]*  
-- "The main characters are WALL-E, the waste-collecting robot, EVE, the scout robot, and the humans aboard the spaceship Axiom. The film touches on deep environmental issues and raises questions about technology’s role in our future."
+- "The film stars Leonardo DiCaprio and Jennifer Lawrence as the scientists, with Meryl Streep as the president and Jonah Hill as her chief of staff. It highlights how real scientific warnings are often ignored in favor of political and economic interests."
 
 ---
 
-### **Journalist 1 (Mathilde)**:  
-**Transition to Science vs Fiction**  
-- "Now that we have a general idea of the plot, let’s explore how the movie blends science with fiction. We’ll dive into the technologies presented in *WALL-E*, and how they compare to what we know today. But first, let’s hear from you, the audience. Do you think the future of Earth could look like the one in *WALL-E*? Raise your hand if you think it's possible. *[Pause for responses]*"
+### **Journalist 1 (Mathilde)**  
+**Public Interaction**  
+- "Now, before we move forward, let’s hear from you! Raise your hand if you think governments and media react appropriately to environmental crises. *[Pause for audience responses]*"  
+- "Interesting! Let’s now explore the scientific themes of the film."
 
 ---
 
-### **Journalist 2 (Oriol)**:  
-**Question to Anrezki (Robotics and AI Expert)**  
-- "Now, let’s start with robotics. Anrezki, in *WALL-E*, we see robots like WALL-E and EVE, who are capable of performing complex tasks and even expressing emotions. How realistic are these robots compared to the current advancements in robotics and AI? Can we expect robots like WALL-E in the near future?"
+### **Journalist 2 (Oriol)**  
+**Question to Anrezki (Astronomy Expert)**  
+- "Anrezki, in the movie, scientists discover a comet and struggle to make politicians and the public take them seriously. How does this compare to real-life scientific communication on climate change?"
 
 ---
 
-### **Specialist 1 (Anrezki, Robotics and AI Expert)**:  
-**Robotics and AI**  
-- *[Slide 3: Robots in *WALL-E* - WALL-E and EVE]*  
-- "That’s a great question, Oriol. The robots in *WALL-E* are depicted with advanced artificial intelligence and emotional capabilities. While we do have robots like vacuum cleaners and factory automation robots today, none of them have the sophisticated emotional intelligence that WALL-E or EVE display.  
-- In reality, AI and robotics are making progress, but emotional AI, where robots can form relationships and show empathy, is still far from being fully realized. We’re closer to having robots that can perform tasks, like Boston Dynamics’ robots, but emotional responses? That’s still science fiction."
+### **Specialist 1 (Anrezki, Astronomy & Climate Science Expert)**  
+**Science Communication & Public Reaction**  
+- *[Slide 3: Scientists in the Movie vs. Real Life]*  
+- "In real life, scientists face similar challenges when communicating urgent crises like climate change. Many struggle to break through misinformation, media bias, and political agendas. The film exaggerates some aspects but captures the frustration scientists feel when their warnings are ignored."
 
 ---
 
-### **Journalist 1 (Mathilde)**:  
+### **Journalist 1 (Mathilde)**  
 **Question to Kiara (Environmental Science Expert)**  
-- "Now, let’s move to the environment. Kiara, in *WALL-E*, Earth has been abandoned because it’s covered in pollution and waste. While the film takes this idea to an extreme, do you think our planet could actually reach a point where we can no longer live here due to environmental damage? What’s the current state of the Earth in terms of pollution?"
+- "Kiara, *Don't Look Up* uses a comet as an allegory for climate change. How well does this metaphor represent the crisis we face today?"
 
 ---
 
-### **Specialist 2 (Kiara, Environmental Science Expert)**:  
-**Ecology and Environmental Impact**  
-- *[Slide 5: Earth in *WALL-E* - A Polluted Wasteland]*  
-- "That’s an important question, Mathilde. While *WALL-E* presents an exaggerated future where Earth is completely abandoned, it does bring up some real concerns about pollution and waste. Right now, we’re dealing with serious environmental issues, like plastic pollution, climate change, and deforestation. However, we’re not yet at the point of total abandonment.  
-- *[Slide 6: Real-World Environmental Problems]*  
-- There’s still hope for the planet. Governments, scientists, and organizations are working on solutions like renewable energy, reducing carbon emissions, and cleaning up oceans. If we act fast, we can still make significant changes to ensure Earth remains habitable."
+### **Specialist 2 (Kiara, Environmental Science Expert)**  
+**Climate Change & Urgency**  
+- *[Slide 4: Climate Change Facts vs. Fiction in the Movie]*  
+- "The comet metaphor is a powerful way to show the urgency of climate change. Unlike a comet impact, climate change is gradual, but its effects—wildfires, rising sea levels, extreme weather—are already happening. The movie highlights how delays in action can lead to catastrophic consequences."
 
 ---
 
-### **Journalist 2 (Oriol)**:  
+### **Journalist 2 (Oriol)**  
+**Public Vote: Who should be responsible?**  
+- "Let’s take a quick vote! Who do you think holds the most responsibility for tackling climate change?  
+1. Governments  
+2. Corporations  
+3. Individuals  
+4. Scientists  
+- *[Pause for audience vote & discuss results]*"
+
+---
+
+### **Journalist 1 (Mathilde)**  
 **Question to Yacine (Space Exploration Expert)**  
-- "Great insights, Kiara! Now, moving on to space exploration. Yacine, in *WALL-E*, humanity leaves Earth to live aboard a spaceship called the Axiom. While this seems very futuristic, do you think humans could actually live in space long-term? What are the current challenges we face in terms of space travel and colonization?"
+- "Yacine, the film suggests that technology and space colonization could be a last resort. Is escaping to another planet really a viable solution?"
 
 ---
 
-### **Specialist 3 (Yacine, Space Exploration Expert)**:  
-**Space Exploration and Human Survival**  
-- *[Slide 7: The Axiom Ship and Human Survival]*  
-- "Thanks for the question, Oriol. The idea of living in space for an extended period is certainly fascinating, but it’s far from being a reality today. Space agencies like NASA are working on missions to send humans to Mars, but creating a sustainable life-support system for long-term space habitation is a huge challenge.  
-- *[Slide 8: Current Space Exploration Efforts]*  
-- Issues like zero gravity, radiation exposure, and food production are just a few of the many hurdles we would need to overcome. The technology is advancing, but living permanently in space as depicted in *WALL-E* is still science fiction for now."
+### **Specialist 3 (Yacine, Space Exploration Expert)**  
+**Space as a Solution?**  
+- *[Slide 5: Space Colonization Challenges]*  
+- "While space exploration is advancing, colonizing another planet is not a short-term solution. Issues like radiation exposure, resource scarcity, and the immense costs make it unrealistic. Instead of seeking an escape, we should focus on preserving Earth."
 
 ---
 
-### **Journalist 1 (Mathilde)**:  
-**Public Interaction - Question Time**  
-- "Now, let’s pause and ask you again—do you think it’s possible for humanity to completely abandon Earth and live in space? What are your thoughts on this? *[Pause for audience answers]*  
-- "Interesting points! It seems like there’s a mix of optimism and skepticism. Now, we’ll turn to our experts for further insights."
+### **Journalist 2 (Oriol)**  
+**Expert Debate**  
+- "Now, let’s make this more engaging! Kiara, do you agree with Yacine, or do you think space exploration is a necessary backup plan?"
+
+- *[Allow experts to discuss their viewpoints]*
 
 ---
 
-### **Specialist 1 (Anrezki)**:  
-**Robotic Abilities in *WALL-E* and Reality**  
-- *[Slide 9: Robotics and Emotional Intelligence]*  
-- "As I mentioned earlier, the robots in *WALL-E* are capable of showing emotions and thinking independently. While this is far from current technology, the idea of creating robots with advanced emotional intelligence isn’t entirely out of reach. Researchers in AI and robotics are experimenting with machines that can recognize and respond to human emotions. However, the emotional complexity seen in *WALL-E* is still a work of science fiction."
+### **Journalist 1 (Mathilde)**  
+**Conclusion & Public Reflection**  
+- "To wrap up, *Don't Look Up* reminds us of the importance of listening to science and taking action before it's too late. The question remains: Will we act in time?"
 
 ---
 
-### **Specialist 2 (Kiara)**:  
-**Ecology - Can Earth Be Rehabilitated?**  
-- *[Slide 10: Real-World Solutions to Pollution]*  
-- "The film’s depiction of a completely abandoned Earth is fictional, but the environmental message is important. In the real world, we have the potential to prevent such a future. While it may take decades, efforts like reducing carbon emissions, cleaning oceans, and recycling can help reverse the damage. The key is to act now before it’s too late."
-
----
-
-### **Journalist 2 (Oriol)**:  
-**Conclusion and Transition to Quiz**  
-- "So, in conclusion, *WALL-E* brings a very imaginative and dystopian vision of the future, blending science with fiction. The technological advancements shown in the film, like AI robots and space colonies, are still far beyond our current reach, but they spark conversations about the future. It challenges us to think about our planet, our technologies, and the potential consequences of our actions."
-
----
-
-### **Journalist 1 (Mathilde)**:  
+### **Journalist 2 (Oriol)**  
 **Quiz Time!**  
-- *[Slide 11: Quiz]*  
-- "Before we wrap up, let’s have a quick quiz to test your knowledge about *WALL-E* and the science behind it. *[Start quiz with 4-5 questions]*"
+- *[Slide 6: Quiz Questions]*  
+- "Before we end, let’s test your knowledge! *[Ask audience 3-4 questions related to the film and environmental science]*"
 
 ---
 
-**End of Presentation**  
-- "Thank you all for your attention! We hope you enjoyed the presentation. Don’t forget to think about the real-world implications of the fictional elements we discussed today. Have a great day!"
+### **End of Presentation**  
+- "Thank you for your attention! Let’s keep the conversation going and take action for our planet."
 
 ---
 
 ## Notes for the Presentation:
-- Ensure each expert stays within their field of expertise to maintain clarity.
-- Use visuals and key phrases in slides for better audience engagement.
-- Interactive moments (questions to the public) should be spaced to maintain attention.
-- The quiz at the end will help solidify the key takeaways.
+- Encourage audience participation through polls and questions.
+- Maintain a balance between entertainment and education.
+- Experts should challenge each other to create a dynamic discussion.
+- Use visuals and minimal text in slides to keep engagement high.
+- End with a strong call to action.
 
+---
+
+**Idée générale en français :**  
+- Introduction au film et résumé rapide.  
+- Interaction avec le public sur la perception des crises environnementales.  
+- Discussion avec des experts sur les parallèles entre le film et la réalité scientifique.  
+- Vote interactif sur la responsabilité face au changement climatique.  
+- Débat entre experts sur la possibilité de la colonisation spatiale.  
+- Conclusion avec appel à l’action et quizz final.  
+
+---
